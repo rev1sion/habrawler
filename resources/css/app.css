@@ -1,0 +1,16 @@
+.h3 {
+
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+}
+
+a.disabled {
+    pointer-events: none;
+}
+
+.post_links a {
+    margin: 0 0.4em;
+}
